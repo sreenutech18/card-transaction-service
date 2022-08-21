@@ -9,4 +9,8 @@ public class CardTransactionController {
 		
 	}
 
+	
+	public void getStatus() {
+		
+	}
 }
