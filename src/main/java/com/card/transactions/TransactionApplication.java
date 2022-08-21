@@ -1,13 +1,13 @@
-package com.payment;
+package com.card.transactions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PaymentApplication {
+public class TransactionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PaymentApplication.class, args);
+		SpringApplication.run(TransactionApplication.class, args);
 	}
 
 }
